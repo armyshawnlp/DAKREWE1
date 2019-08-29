@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  color: black;
+
+}
+p {
+color: #602d8f;
+}
+.blogcard {
+  border: 2px solid #602d8f;
+  border-radius: 5px;
+  padding: 10em;
+  padding-top: 10px;
+  padding-bottom: 4em;
+}
+
+label {
+  color: black;
+}

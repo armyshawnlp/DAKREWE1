@@ -1,0 +1,115 @@
+.jumfoot {
+  background: url(https://i.imgur.com/05IALgu.jpg) no-repeat bottom;
+  background-color: #602d8f;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0rem;
+  height: 400px;
+  position: relative;
+  background-position: center;
+}
+
+.overlay {
+  background-color: #000;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+}
+
+.card-body {
+  background-color: transparent;
+}
+.facebook {
+  width: 300px;
+  padding: 20px;
+}
+.row {
+  color: white;
+}
+.P {
+  font-size: 2rem;
+}
+.icon {
+  height: 20px;
+}
+.fa {
+  font-size: 1.7em;
+  color: rgb(52, 180, 74);
+  color: -moz-radial-gradient(
+    circle,
+    rgba(52, 180, 74, 1) 35%,
+    rgba(96, 45, 143, 1) 100%
+  );
+  color: -webkit-radial-gradient(
+    circle,
+    rgba(52, 180, 74, 1) 35%,
+    rgba(96, 45, 143, 1) 100%
+  );
+  color: radial-gradient(
+    circle,
+    rgba(52, 180, 74, 1) 35%,
+    rgba(96, 45, 143, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#34b44a",endColorstr="#602d8f",GradientType=1);
+}
+
+.linkscont {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.social-links {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: white;
+}
+hr {
+  background-color: white;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.nav {
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  display: inline;
+  
+}
+.nav-link {
+  padding: 0;
+}
+a {
+  color: white;
+}
+.row {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  
+}
+.footercol {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-title {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+}
